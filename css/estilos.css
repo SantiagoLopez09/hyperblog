@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family:"century" gothic;
-    color: #333;
+    color: #1bc429;
     margin: 0;
     padding: 0;
 }
@@ -19,8 +19,6 @@ body{
     padding: 0 0 0 1em ;
     font-weight: normal;
     font-size: 0.8em;
-
-
 }
 
 #container{
