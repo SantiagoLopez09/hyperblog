@@ -4,5 +4,7 @@ Santiago, tiene 30 años y nacio en Bogotá, Colombia
 
 master 1
 
+master 2
+
 Mañana nos enfocaremos en su vida laboral 
 
